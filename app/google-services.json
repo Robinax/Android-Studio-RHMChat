@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626211202818",
+    "firebase_url": "https://testtolearn-c380e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testtolearn-c380e",
+    "storage_bucket": "testtolearn-c380e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626211202818:android:51ed961defdd2413e7441b",
+        "android_client_info": {
+          "package_name": "se.rob90.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626211202818-thlkrhd9jib3c033192722odc20t09ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1xwFSZsYmUkOC7-V6QLSn6mR2G_9A9YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626211202818-thlkrhd9jib3c033192722odc20t09ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
